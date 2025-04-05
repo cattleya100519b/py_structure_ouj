@@ -1,4 +1,4 @@
-<img src="https://lh4.googleusercontent.com/EWoUx22SAakvLx0NX_RVCdkMKpN6cMu8JWxbp5wehkmhIdH8VttpEFHI4D-C6Y9L6k88EPkHZF_is0WOoc8mP0ejHFgfRETuK5d-khirji4_ieg2bW6iu6kQM_576yL0og=w1280" alt="書影" height=150px>
+<img src="https://lh6.googleusercontent.com/XV67ehp5ZUfODjyaC8THyLjsDyj3tBlGT64rH_R-UtDkYVZ20ebPW04BAR_2aZHQ7Mw92UKAyrNIWcBAogKJ8d8I6n9PwH9WjPIyHRTSzMzKXutU3A5bcMl8Obl0LnoMNg=w1280" alt="書影" height=150px>
 
 ## Book
 - [データ構造の基礎(ouj)](https://sites.google.com/site/compsciouj/ds2024)
